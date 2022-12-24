@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/narayani2327/tic-tac-toe/static/css/main.1b8e11b5.css",
+    "main.js": "/narayani2327/tic-tac-toe/static/js/main.1b7884e8.js",
+    "index.html": "/narayani2327/tic-tac-toe/index.html",
+    "main.1b8e11b5.css.map": "/narayani2327/tic-tac-toe/static/css/main.1b8e11b5.css.map",
+    "main.1b7884e8.js.map": "/narayani2327/tic-tac-toe/static/js/main.1b7884e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8e11b5.css",
+    "static/js/main.1b7884e8.js"
+  ]
+}
